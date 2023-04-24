@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_github_codespace",
+  "version": "1.0.0",
+  "description": "build nodejs and mongo with github codespace",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
